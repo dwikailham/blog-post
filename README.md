@@ -4,7 +4,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+First You Install the React App with:
+
+### `npm install`
+
+Then install JSON Server
+
+### `npm install -g json-server`
+
+Start JSON Server with Port 3004
+### `$ json-server --watch db.json --port 3004`
+
+and after installation complete you can run the app:
 
 ### `npm start`
 
